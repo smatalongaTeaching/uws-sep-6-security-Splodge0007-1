@@ -1,6 +1,7 @@
 package com.uws.secureprogramming.dataLeak;
 
-import static org.junit.Assert.fail;
+import static org.junit.jupiter.api.Assertions.assertDoesNotThrow;
+import static org.junit.jupiter.api.Assertions.assertThrows;
 
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
@@ -18,73 +19,57 @@ class DatabaseConnectionTest {
         userDatabase.addUser(new User("donald", "dd@disney.com", "duck456"));
         userDatabase.addUser(new User("goofy", "goof@disney.com", "good123"));
         userDatabase.addUser(new User("minnie", "mm01@disney.com", "minnie321"));
+        userDatabase.addUser(new User("admin", "admin@disney.com", "secr3tP@ss"));
         dbConnection = new DatabaseConnection(userDatabase);
     }
 
     
     @Test
     void testConnectWithNullUsername() {
-        try {
+        assertThrows(IllegalArgumentException.class, () -> {
             dbConnection.connectToDatabase(null, "password");
-        } catch (Exception e) {
-            
-            e.printStackTrace();
-            fail();
-        }
-        
+        });
     }
 
     @Test
     void testConnectWithNullPassword() {
-        try {
+        assertThrows(IllegalArgumentException.class, () -> {
             dbConnection.connectToDatabase("mickey", null);
-        } catch (Exception e) {
-            e.printStackTrace();
-            fail();
-        }
+        });
     }
 
     @Test
     void testUserNotFoundOrIncorrectPassword() {
-        try {
+        assertThrows(IllegalArgumentException.class, () -> {
             dbConnection.connectToDatabase("pluto", "dog123");
+        });
+        assertThrows(IllegalArgumentException.class, () -> {
             dbConnection.connectToDatabase("donald", "wrongpass");
-        } catch (Exception e) {
-            e.printStackTrace();
-            fail();
-        }
+        });
     }
 
     @Test
     void testSuccessfulConnection() {
-        try {
-            dbConnection.connectToDatabase("goofy", "goof789");
+        assertDoesNotThrow(() -> {
+            dbConnection.connectToDatabase("goofy", "good123");
+        });
+        assertDoesNotThrow(() -> {
             dbConnection.connectToDatabase("minnie", "minnie321");
-        } catch (Exception e) {
-            e.printStackTrace();
-            fail();
-        }
+        });
     }
 
     @Test
     void testAdminConnectionWithIncorrectPassword() {
-        try {
+        assertThrows(IllegalArgumentException.class, () -> {
             dbConnection.connectToDatabase("admin", "wrongpass");
-        } catch (Exception e) {
-            System.out.println("Caught expected exception: " + e.getMessage());
-        }
+        });
     }
 
     @Test
     void testAdminConnectionWithCorrectPassword() {
-        try {
+        assertDoesNotThrow(() -> {
             dbConnection.connectToDatabase("admin", "secr3tP@ss");
-            System.out.println("Admin connected successfully.");
-        } catch (Exception e) {
-            e.printStackTrace();
-            fail();
-        }
-
+        });
     }
 
 }
