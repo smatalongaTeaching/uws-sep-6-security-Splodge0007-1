@@ -5,25 +5,27 @@ public class DatabaseConnection {
 
     public DatabaseConnection(UserDatabase users) {
         userDatabase = users;
-        userDatabase.addUser(new User("admin", "admin@disney.com", "secr3tP@ss"));
     }
 
 
-    public void connectToDatabase(String username, String password) throws Exception {
+    public void connectToDatabase(String username, String password) {
         try {
             // Simulating database connection
             
             if (username == null || password == null) {
-                throw new IllegalArgumentException("Username or password is null");
+                throw new IllegalArgumentException("Invalid input: Please review your username and password and try again");
             }
-            if (username.equals("admin") && !password.equals("secr3tP@ss")) {
-                throw new Exception("Authentication failed: Incorrect password for user admin");
-            }
+
             if (!this.userDatabase.AcceptUserLogin(username, password)) {
-                throw new Exception("Authentication failed: User not found or incorrect password");
+                throw new IllegalArgumentException("Authentication failed: Please review your username and password and try again");
             }
             System.out.println("Connected successfully to database as " + username);
-        } catch (Exception e) {
+        } catch (IllegalArgumentException e) {
+            if (username != null && username.equals("admin")) {
+                LoggerUtil.warning("Failed login attempt for admin user. " + e.getMessage());
+            } else {
+                LoggerUtil.info("Generic login failure for user: " + username + ". " + e.getMessage());
+            }
             // Vulnerable error handling
             throw e; 
         }

@@ -19,10 +19,10 @@ public class UserDatabase {
         return database.contains(user);
     }
 
-    public boolean AcceptUserLogin(String email, String password) {
+    public boolean AcceptUserLogin(String username, String password) {
         for (User user : database) {
-            if (user.getEmail().equals(email) && user.getPassword().equals(password)) {
-                return true; // User found with matching email and password
+            if (user.getName().equals(username) && user.getPassword().equals(password)) {
+                return true; // User found with matching username and password
             }
         }
         return false; // No matching user found

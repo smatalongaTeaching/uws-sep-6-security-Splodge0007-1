@@ -1,0 +1,194 @@
+Apr 02, 2026 9:41:37 AM com.uws.secureprogramming.dataLeak.LoggerUtil warning
+WARNING: Login attempt with null username or password. Invalid input: Please review your username and password and try again
+Apr 02, 2026 9:41:37 AM com.uws.secureprogramming.dataLeak.LoggerUtil severe
+SEVERE: Login attempt failed for user: mickey
+Apr 02, 2026 9:41:37 AM com.uws.secureprogramming.dataLeak.LoggerUtil warning
+WARNING: Failed login attempt for admin user. Authentication failed: Please review your username and password and try again
+Apr 02, 2026 9:41:37 AM com.uws.secureprogramming.dataLeak.LoggerUtil severe
+SEVERE: Login attempt failed for user: admin
+Apr 02, 2026 9:41:37 AM com.uws.secureprogramming.dataLeak.LoggerUtil warning
+WARNING: Failed login attempt for admin user. Authentication failed: Please review your username and password and try again
+Apr 02, 2026 9:41:37 AM com.uws.secureprogramming.dataLeak.LoggerUtil severe
+SEVERE: Login attempt failed for user: admin
+Apr 02, 2026 9:41:37 AM com.uws.secureprogramming.dataLeak.LoggerUtil info
+INFO: Generic login failure for user: pluto. Authentication failed: Please review your username and password and try again
+Apr 02, 2026 9:41:37 AM com.uws.secureprogramming.dataLeak.LoggerUtil severe
+SEVERE: Login attempt failed for user: pluto
+Apr 02, 2026 9:41:37 AM com.uws.secureprogramming.dataLeak.LoggerUtil info
+INFO: Generic login failure for user: goofy. Authentication failed: Please review your username and password and try again
+Apr 02, 2026 9:41:37 AM com.uws.secureprogramming.dataLeak.LoggerUtil severe
+SEVERE: Login attempt failed for user: goofy
+Apr 02, 2026 9:41:37 AM com.uws.secureprogramming.dataLeak.LoggerUtil warning
+WARNING: Login attempt with null username or password. Invalid input: Please review your username and password and try again
+Apr 02, 2026 9:41:37 AM com.uws.secureprogramming.dataLeak.LoggerUtil severe
+SEVERE: Login attempt failed for user: null
+Apr 02, 2026 9:42:31 AM com.uws.secureprogramming.dataLeak.LoggerUtil warning
+WARNING: Login attempt with null username or password. Invalid input: Please review your username and password and try again
+Apr 02, 2026 9:42:32 AM com.uws.secureprogramming.dataLeak.LoggerUtil severe
+SEVERE: Login attempt failed for user: mickey
+Apr 02, 2026 9:42:32 AM com.uws.secureprogramming.dataLeak.LoggerUtil warning
+WARNING: Failed login attempt for admin user. Authentication failed: Please review your username and password and try again
+Apr 02, 2026 9:42:32 AM com.uws.secureprogramming.dataLeak.LoggerUtil severe
+SEVERE: Login attempt failed for user: admin
+Apr 02, 2026 9:42:32 AM com.uws.secureprogramming.dataLeak.LoggerUtil warning
+WARNING: Failed login attempt for admin user. Authentication failed: Please review your username and password and try again
+Apr 02, 2026 9:42:32 AM com.uws.secureprogramming.dataLeak.LoggerUtil severe
+SEVERE: Login attempt failed for user: admin
+Apr 02, 2026 9:42:32 AM com.uws.secureprogramming.dataLeak.LoggerUtil info
+INFO: Generic login failure for user: pluto. Authentication failed: Please review your username and password and try again
+Apr 02, 2026 9:42:32 AM com.uws.secureprogramming.dataLeak.LoggerUtil severe
+SEVERE: Login attempt failed for user: pluto
+Apr 02, 2026 9:42:32 AM com.uws.secureprogramming.dataLeak.LoggerUtil info
+INFO: Generic login failure for user: goofy. Authentication failed: Please review your username and password and try again
+Apr 02, 2026 9:42:32 AM com.uws.secureprogramming.dataLeak.LoggerUtil severe
+SEVERE: Login attempt failed for user: goofy
+Apr 02, 2026 9:42:32 AM com.uws.secureprogramming.dataLeak.LoggerUtil warning
+WARNING: Login attempt with null username or password. Invalid input: Please review your username and password and try again
+Apr 02, 2026 9:42:32 AM com.uws.secureprogramming.dataLeak.LoggerUtil severe
+SEVERE: Login attempt failed for user: null
+Apr 02, 2026 9:43:27 AM com.uws.secureprogramming.dataLeak.LoggerUtil warning
+WARNING: Login attempt with null username or password. Invalid input: Please review your username and password and try again
+Apr 02, 2026 9:43:27 AM com.uws.secureprogramming.dataLeak.LoggerUtil severe
+SEVERE: Login attempt failed for user: mickey
+Apr 02, 2026 9:43:27 AM com.uws.secureprogramming.dataLeak.LoggerUtil warning
+WARNING: Failed login attempt for admin user. Authentication failed: Please review your username and password and try again
+Apr 02, 2026 9:43:27 AM com.uws.secureprogramming.dataLeak.LoggerUtil severe
+SEVERE: Login attempt failed for user: admin
+Apr 02, 2026 9:43:27 AM com.uws.secureprogramming.dataLeak.LoggerUtil warning
+WARNING: Failed login attempt for admin user. Authentication failed: Please review your username and password and try again
+Apr 02, 2026 9:43:27 AM com.uws.secureprogramming.dataLeak.LoggerUtil severe
+SEVERE: Login attempt failed for user: admin
+Apr 02, 2026 9:43:27 AM com.uws.secureprogramming.dataLeak.LoggerUtil info
+INFO: Generic login failure for user: pluto. Authentication failed: Please review your username and password and try again
+Apr 02, 2026 9:43:27 AM com.uws.secureprogramming.dataLeak.LoggerUtil severe
+SEVERE: Login attempt failed for user: pluto
+Apr 02, 2026 9:43:27 AM com.uws.secureprogramming.dataLeak.LoggerUtil info
+INFO: Generic login failure for user: donald. Authentication failed: Please review your username and password and try again
+Apr 02, 2026 9:43:27 AM com.uws.secureprogramming.dataLeak.LoggerUtil severe
+SEVERE: Login attempt failed for user: donald
+Apr 02, 2026 9:43:27 AM com.uws.secureprogramming.dataLeak.LoggerUtil info
+INFO: Generic login failure for user: goofy. Authentication failed: Please review your username and password and try again
+Apr 02, 2026 9:43:27 AM com.uws.secureprogramming.dataLeak.LoggerUtil severe
+SEVERE: Login attempt failed for user: goofy
+Apr 02, 2026 9:43:27 AM com.uws.secureprogramming.dataLeak.LoggerUtil warning
+WARNING: Login attempt with null username or password. Invalid input: Please review your username and password and try again
+Apr 02, 2026 9:43:27 AM com.uws.secureprogramming.dataLeak.LoggerUtil severe
+SEVERE: Login attempt failed for user: null
+Apr 02, 2026 9:44:47 AM com.uws.secureprogramming.dataLeak.LoggerUtil warning
+WARNING: Login attempt with null username or password. Invalid input: Please review your username and password and try again
+Apr 02, 2026 9:44:47 AM com.uws.secureprogramming.dataLeak.LoggerUtil warning
+WARNING: Failed login attempt for admin user. Authentication failed: Please review your username and password and try again
+Apr 02, 2026 9:44:47 AM com.uws.secureprogramming.dataLeak.LoggerUtil warning
+WARNING: Failed login attempt for admin user. Authentication failed: Please review your username and password and try again
+Apr 02, 2026 9:44:47 AM com.uws.secureprogramming.dataLeak.LoggerUtil info
+INFO: Generic login failure for user: pluto. Authentication failed: Please review your username and password and try again
+Apr 02, 2026 9:44:47 AM com.uws.secureprogramming.dataLeak.LoggerUtil info
+INFO: Generic login failure for user: donald. Authentication failed: Please review your username and password and try again
+Apr 02, 2026 9:44:47 AM com.uws.secureprogramming.dataLeak.LoggerUtil info
+INFO: Generic login failure for user: goofy. Authentication failed: Please review your username and password and try again
+Apr 02, 2026 9:44:47 AM com.uws.secureprogramming.dataLeak.LoggerUtil warning
+WARNING: Login attempt with null username or password. Invalid input: Please review your username and password and try again
+Apr 02, 2026 9:45:36 AM com.uws.secureprogramming.dataLeak.LoggerUtil warning
+WARNING: Login attempt with null username or password. Invalid input: Please review your username and password and try again
+Apr 02, 2026 9:45:36 AM com.uws.secureprogramming.dataLeak.LoggerUtil warning
+WARNING: Failed login attempt for admin user. Authentication failed: Please review your username and password and try again
+Apr 02, 2026 9:45:36 AM com.uws.secureprogramming.dataLeak.LoggerUtil warning
+WARNING: Failed login attempt for admin user. Authentication failed: Please review your username and password and try again
+Apr 02, 2026 9:45:36 AM com.uws.secureprogramming.dataLeak.LoggerUtil info
+INFO: Generic login failure for user: pluto. Authentication failed: Please review your username and password and try again
+Apr 02, 2026 9:45:36 AM com.uws.secureprogramming.dataLeak.LoggerUtil info
+INFO: Generic login failure for user: donald. Authentication failed: Please review your username and password and try again
+Apr 02, 2026 9:45:36 AM com.uws.secureprogramming.dataLeak.LoggerUtil info
+INFO: Generic login failure for user: goofy. Authentication failed: Please review your username and password and try again
+Apr 02, 2026 9:45:36 AM com.uws.secureprogramming.dataLeak.LoggerUtil warning
+WARNING: Login attempt with null username or password. Invalid input: Please review your username and password and try again
+Apr 02, 2026 9:46:30 AM com.uws.secureprogramming.dataLeak.LoggerUtil warning
+WARNING: Login attempt with null username or password. Invalid input: Please review your username and password and try again
+Apr 02, 2026 9:46:30 AM com.uws.secureprogramming.dataLeak.LoggerUtil warning
+WARNING: Failed login attempt for admin user. Authentication failed: Please review your username and password and try again
+Apr 02, 2026 9:46:30 AM com.uws.secureprogramming.dataLeak.LoggerUtil warning
+WARNING: Failed login attempt for admin user. Authentication failed: Please review your username and password and try again
+Apr 02, 2026 9:46:30 AM com.uws.secureprogramming.dataLeak.LoggerUtil info
+INFO: Generic login failure for user: pluto. Authentication failed: Please review your username and password and try again
+Apr 02, 2026 9:46:30 AM com.uws.secureprogramming.dataLeak.LoggerUtil info
+INFO: Generic login failure for user: donald. Authentication failed: Please review your username and password and try again
+Apr 02, 2026 9:46:30 AM com.uws.secureprogramming.dataLeak.LoggerUtil info
+INFO: Generic login failure for user: goofy. Authentication failed: Please review your username and password and try again
+Apr 02, 2026 9:46:30 AM com.uws.secureprogramming.dataLeak.LoggerUtil warning
+WARNING: Login attempt with null username or password. Invalid input: Please review your username and password and try again
+Apr 02, 2026 9:49:08 AM com.uws.secureprogramming.dataLeak.LoggerUtil warning
+WARNING: Login attempt with null username or password. Invalid input: Please review your username and password and try again
+Apr 02, 2026 9:49:08 AM com.uws.secureprogramming.dataLeak.LoggerUtil warning
+WARNING: Login attempt with null username or password. Authentication failed: Please review your username and password and try again
+Apr 02, 2026 9:49:08 AM com.uws.secureprogramming.dataLeak.LoggerUtil warning
+WARNING: Login attempt with null username or password. Authentication failed: Please review your username and password and try again
+Apr 02, 2026 9:49:08 AM com.uws.secureprogramming.dataLeak.LoggerUtil warning
+WARNING: Login attempt with null username or password. Authentication failed: Please review your username and password and try again
+Apr 02, 2026 9:49:08 AM com.uws.secureprogramming.dataLeak.LoggerUtil warning
+WARNING: Login attempt with null username or password. Authentication failed: Please review your username and password and try again
+Apr 02, 2026 9:49:08 AM com.uws.secureprogramming.dataLeak.LoggerUtil warning
+WARNING: Login attempt with null username or password. Authentication failed: Please review your username and password and try again
+Apr 02, 2026 9:49:08 AM com.uws.secureprogramming.dataLeak.LoggerUtil warning
+WARNING: Login attempt with null username or password. Invalid input: Please review your username and password and try again
+Apr 02, 2026 9:51:07 AM com.uws.secureprogramming.dataLeak.LoggerUtil info
+INFO: Generic login failure for user: mickey. Invalid input: Please review your username and password and try again
+Apr 02, 2026 9:51:07 AM com.uws.secureprogramming.dataLeak.LoggerUtil warning
+WARNING: Failed login attempt for admin user. Authentication failed: Please review your username and password and try again
+Apr 02, 2026 9:51:07 AM com.uws.secureprogramming.dataLeak.LoggerUtil warning
+WARNING: Failed login attempt for admin user. Authentication failed: Please review your username and password and try again
+Apr 02, 2026 9:51:07 AM com.uws.secureprogramming.dataLeak.LoggerUtil info
+INFO: Generic login failure for user: pluto. Authentication failed: Please review your username and password and try again
+Apr 02, 2026 9:51:07 AM com.uws.secureprogramming.dataLeak.LoggerUtil info
+INFO: Generic login failure for user: donald. Authentication failed: Please review your username and password and try again
+Apr 02, 2026 9:51:07 AM com.uws.secureprogramming.dataLeak.LoggerUtil info
+INFO: Generic login failure for user: goofy. Authentication failed: Please review your username and password and try again
+Apr 02, 2026 9:51:07 AM com.uws.secureprogramming.dataLeak.LoggerUtil info
+INFO: Generic login failure for user: null. Invalid input: Please review your username and password and try again
+Apr 02, 2026 9:51:50 AM com.uws.secureprogramming.dataLeak.LoggerUtil warning
+WARNING: Login attempt with null username or password. Invalid input: Please review your username and password and try again
+Apr 02, 2026 9:51:50 AM com.uws.secureprogramming.dataLeak.LoggerUtil warning
+WARNING: Failed login attempt for admin user. Authentication failed: Please review your username and password and try again
+Apr 02, 2026 9:51:50 AM com.uws.secureprogramming.dataLeak.LoggerUtil warning
+WARNING: Failed login attempt for admin user. Authentication failed: Please review your username and password and try again
+Apr 02, 2026 9:51:50 AM com.uws.secureprogramming.dataLeak.LoggerUtil info
+INFO: Generic login failure for user: pluto. Authentication failed: Please review your username and password and try again
+Apr 02, 2026 9:51:50 AM com.uws.secureprogramming.dataLeak.LoggerUtil info
+INFO: Generic login failure for user: goofy. Authentication failed: Please review your username and password and try again
+Apr 02, 2026 9:51:50 AM com.uws.secureprogramming.dataLeak.LoggerUtil warning
+WARNING: Login attempt with null username or password. Invalid input: Please review your username and password and try again
+Apr 02, 2026 9:52:31 AM com.uws.secureprogramming.dataLeak.LoggerUtil warning
+WARNING: Login attempt with null username or password. Invalid input: Please review your username and password and try again
+Apr 02, 2026 9:52:31 AM com.uws.secureprogramming.dataLeak.LoggerUtil warning
+WARNING: Failed login attempt for admin user. Authentication failed: Please review your username and password and try again
+Apr 02, 2026 9:52:31 AM com.uws.secureprogramming.dataLeak.LoggerUtil warning
+WARNING: Failed login attempt for admin user. Authentication failed: Please review your username and password and try again
+Apr 02, 2026 9:52:31 AM com.uws.secureprogramming.dataLeak.LoggerUtil info
+INFO: Generic login failure for user: pluto. Authentication failed: Please review your username and password and try again
+Apr 02, 2026 9:52:31 AM com.uws.secureprogramming.dataLeak.LoggerUtil info
+INFO: Generic login failure for user: goofy. Authentication failed: Please review your username and password and try again
+Apr 02, 2026 9:52:31 AM com.uws.secureprogramming.dataLeak.LoggerUtil warning
+WARNING: Login attempt with null username or password. Invalid input: Please review your username and password and try again
+Apr 02, 2026 9:52:54 AM com.uws.secureprogramming.dataLeak.LoggerUtil info
+INFO: Generic login failure for user: mickey. Invalid input: Please review your username and password and try again
+Apr 02, 2026 9:52:54 AM com.uws.secureprogramming.dataLeak.LoggerUtil warning
+WARNING: Failed login attempt for admin user. Authentication failed: Please review your username and password and try again
+Apr 02, 2026 9:52:54 AM com.uws.secureprogramming.dataLeak.LoggerUtil warning
+WARNING: Failed login attempt for admin user. Authentication failed: Please review your username and password and try again
+Apr 02, 2026 9:52:54 AM com.uws.secureprogramming.dataLeak.LoggerUtil info
+INFO: Generic login failure for user: pluto. Authentication failed: Please review your username and password and try again
+Apr 02, 2026 9:52:54 AM com.uws.secureprogramming.dataLeak.LoggerUtil info
+INFO: Generic login failure for user: donald. Authentication failed: Please review your username and password and try again
+Apr 02, 2026 9:52:55 AM com.uws.secureprogramming.dataLeak.LoggerUtil info
+INFO: Generic login failure for user: goofy. Authentication failed: Please review your username and password and try again
+Apr 02, 2026 9:52:55 AM com.uws.secureprogramming.dataLeak.LoggerUtil info
+INFO: Generic login failure for user: null. Invalid input: Please review your username and password and try again
+Apr 02, 2026 9:54:41 AM com.uws.secureprogramming.dataLeak.LoggerUtil info
+INFO: Generic login failure for user: mickey. Invalid input: Please review your username and password and try again
+Apr 02, 2026 9:54:41 AM com.uws.secureprogramming.dataLeak.LoggerUtil warning
+WARNING: Failed login attempt for admin user. Authentication failed: Please review your username and password and try again
+Apr 02, 2026 9:54:41 AM com.uws.secureprogramming.dataLeak.LoggerUtil info
+INFO: Generic login failure for user: pluto. Authentication failed: Please review your username and password and try again
+Apr 02, 2026 9:54:41 AM com.uws.secureprogramming.dataLeak.LoggerUtil info
+INFO: Generic login failure for user: donald. Authentication failed: Please review your username and password and try again
+Apr 02, 2026 9:54:41 AM com.uws.secureprogramming.dataLeak.LoggerUtil info
+INFO: Generic login failure for user: null. Invalid input: Please review your username and password and try again
